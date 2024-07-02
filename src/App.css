@@ -1,5 +1,5 @@
 .App {
-  background-color: #282c34;
+  background-color: #d6e4ec;
   min-height: 100vh;
   padding: 20px;
 }
@@ -29,7 +29,7 @@
   text-align: left;
   display: flex;
   flex-direction: row;
-  color: white;
+  color: black;
 }
 
 .App-link {
