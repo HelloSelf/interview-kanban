@@ -1,6 +1,6 @@
 # Take Home Exercise
 
-Thank you for taking the time to do this exercise. Please spend no longer than an hour on the below. If you enjoy the exercise and would like to continue, we would be delighted to interview. We will spend the first part of your interview discussing this work.
+Thank you for taking the time to do this exercise. We respect your time so please do not spend more than 2 hours on the solution. If you enjoy the exercise and would like to continue, we would be delighted to interview. We will spend the first part of your interview discussing this work.
 
 Please fork this repository and send us your answer. Remember to provide us relevant permission to access the repository.
 
